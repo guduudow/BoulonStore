@@ -1,7 +1,5 @@
 # BoulonStore
 
-## Boulon Store Web App
-
 Welcome to Boulon Store, a stylish online fashion destination brought to life with cutting-edge technologies. This project houses the codebase for my dynamic web application, designed using Node.js, Pug, MongoDB Atlas, Bootstrap, and Express.
 
 ## Key Features:
