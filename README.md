@@ -1,6 +1,6 @@
-# BoulonStore
+# Boulon
 
-Welcome to Boulon Store, a stylish online fashion destination brought to life with cutting-edge technologies. This project houses the codebase for my dynamic web application, designed using Node.js, Pug, MongoDB Atlas, Bootstrap, and Express.
+Welcome to *Boulon*, a stylish online fashion destination brought to life with cutting-edge technologies. This project houses the codebase for my dynamic web application, designed using Node.js, Pug, MongoDB Atlas, Bootstrap, and Express.
 
 ## Key Features:
 - Three main pages: Home, Men's, and Women's sections for seamless browsing.
